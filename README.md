@@ -28,6 +28,4 @@ Didesain khusus untuk keperluan registrasi PAA
 
 ## 👨‍💻 Author
 
-- Nama: Imannuel Jeremi
-- NIM: A11.2025.16520
-- Prodi: Teknik Informatika
+- Nama: Jeremiahjirei
