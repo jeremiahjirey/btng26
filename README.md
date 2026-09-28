@@ -31,3 +31,4 @@ Didesain khusus untuk keperluan registrasi PAA
 - Nama: Imannuel Jeremi
 - NIM: A11.2025.16520
 - Prodi: Teknik Informatika
+- Fakultas: Teknologi Cerdas
