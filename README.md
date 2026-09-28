@@ -4,6 +4,7 @@ Didesain khusus untuk keperluan registrasi PAA
 ---
 
 ## ✨ Fitur Utama
+
 - Formulir pendaftaran dengan input:
   - Nama Lengkap
   - NIM
@@ -19,13 +20,14 @@ Didesain khusus untuk keperluan registrasi PAA
 - Tombol **Buat Baru** untuk mengulang pendaftaran
 
 ## 🛠️ Teknologi yang Digunakan
+
 - **HTML5** → struktur halaman
 - **CSS3** → styling & responsive UI
 - **JavaScript** → logika form, upload foto, generate kartu
 - **html2canvas** → library untuk download kartu jadi gambar PNG
 
 ## 👨‍💻 Author
+
 - Nama: Imannuel Jeremi
 - NIM: A11.2025.16520
 - Prodi: Teknik Informatika
-
